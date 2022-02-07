@@ -1,7 +1,3 @@
-# Stuff learned so far
+# The first project
 
-- Some basic html tags
-- Tags have attributes and values
-	- Such as `href` or `alt`
-- Absolute and relative links
-- To consider accessibility
+🧫 The first one
